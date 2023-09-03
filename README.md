@@ -1,7 +1,7 @@
 # Task-List📌✅
 
 ## About the project📜
-Task List created for fundamental front end knowledge, the project addresses a list of tasks that can be:
+Task List created to solidify front end knowledge, the project addresses a list of tasks that can be:
 - added
 - removed
 - changed priority position
